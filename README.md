@@ -1,4 +1,6 @@
 **SIMPLE HOSTING PANEL:**
+<img width="500" height="500" alt="icon" src="https://github.com/user-attachments/assets/03f438f8-179a-4684-ab47-15a0090e7522" />
+
 
 
 Features:
